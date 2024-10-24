@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vyacheslav</h1>
+<h1 align="center">Hi 👋, I'm Daedalus</h1>
 <h3 align="center">Automation QA Engineer (Python/Typescript)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=666dadealus&label=Profile%20views&color=0e75b6&style=flat" alt="666dadealus" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=666daedalus)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Develux**
+- 🔭 I’m currently working on **Remote**
 
 - 🌱 I’m currently learning **Playwright, React, Django**
 
-- 📫 How to reach me **vyacheslavkondratiev23@gmail.com**
+- 📫 How to reach me **Instagram DM**
 
-- ⚡ Fun fact **You shall not pass.**
+- ⚡ Fun fact **Я не мажор, у меня нету мерса. Я просто пацан, со мною интересно.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
