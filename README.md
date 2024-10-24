@@ -5,13 +5,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=666daedalus)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Remote**
+- 🔭 I’m currently working on: **Remote**
 
-- 🌱 I’m currently learning **Playwright, React, Django**
+- 🌱 I’m currently learning: **Playwright, React, Django**
 
-- 📫 How to reach me **Instagram DM**
+- 📫 How to reach me: **Instagram DM**
 
-- ⚡ Fun fact **Я не мажор, у меня нету мерса. Я просто пацан, со мною интересно.**
+- ⚡ Fun fact: **Я не мажор, у меня нету мерса. Я просто пацан, со мною интересно.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
