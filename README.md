@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **Remote**
 
-- 🌱 I’m currently learning: **Playwright, React, Django**
+- 🌱 I’m currently learning: **SDET techniques**
 
 - 📫 How to reach me: **Instagram DM**
 
