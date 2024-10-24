@@ -25,6 +25,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=666daedalus)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=666dadealus&show_icons=true&locale=en" alt="666dadealus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=666daedalus&show_icons=true&locale=en" alt="666daedalus" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=666daedalus)](https://git.io/streak-stats)
