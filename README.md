@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=666dadealus&show_icons=true&locale=en" alt="666dadealus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=666dadealus&" alt="666dadealus" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=666daedalus)](https://git.io/streak-stats)
