@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: **Instagram DM**
 
-- ⚡ Fun fact: **Я не мажор, у меня нету мерса. Я просто пацан, со мною интересно.**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://ua.linkedin.com/in/vyacheslav-kondratiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyacheslav kondratiev" height="30" width="40" /></a>
